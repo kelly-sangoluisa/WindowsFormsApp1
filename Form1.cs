@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void lblNombre(object sender, EventArgs e)
+        {
+
+        }
     }
 }
